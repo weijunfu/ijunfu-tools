@@ -1,0 +1,4 @@
+snowflake:
+  enable: true
+  machine-id: 1
+  datacenter-id: 1
